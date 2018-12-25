@@ -1,1 +1,11 @@
 # awesome-papers
++ [Awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
++ [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
++ [Awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) 
++ [awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems)
++ [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
++ [awesome-very-deep-learning](https://github.com/daviddao/awesome-very-deep-learning)
++ [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
++ [Awesome Multibody Dynamics Simulation](https://github.com/jslee02/awesome-multibody-dynamics-simulation)
++ [Deep-Reinforcement-Learning-Papers](https://github.com/L706077/Deep-Reinforcement-Learning-Papers)
++ [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
